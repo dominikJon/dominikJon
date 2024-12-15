@@ -28,7 +28,7 @@ I'm a programming enthusiast and currently a student of Applied Computer Science
   </a>
 </p>
 
-I'm always eager to learn new tools and frameworks, and I enjoy tackling challenging problems to improve my skills.
+I'm constantly learning new tools and frameworks, as this is just the beginning of my journey in the world of programming.
 
 ### 🏐 Outside of Coding
 When I'm not coding, you'll probably find me pursuing my other passions:
