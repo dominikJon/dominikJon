@@ -38,3 +38,7 @@ When I'm not coding, you'll probably find me pursuing my other passions:
 
 ### 📫 Let's Connect
 Feel free to explore my repositories or reach out to me if you'd like to collaborate on a project or just chat about technology and sports!
+
+- **Email**: <a href="mailto:dominikjonik6@gmail.com">dominikjonik6@gmail.com</a>  
+- **Discord**: <a href="https://discord.com">dom1nik</a>
+
