@@ -2,7 +2,7 @@
 <h3 align="center">I am passionate about programming and technology.</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> 
+  <img src="https://komarev.com/ghpvc/?username=dominikJon&label=Profile%20views&color=0e75b6&style=flat" alt="dominikJon" /> 
 </p>
 
 ### 💻 About Me
