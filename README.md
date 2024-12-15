@@ -6,7 +6,7 @@
 </p>
 
 ### 💻 About Me
-I'm a programming enthusiast and currently a student of Applied Computer Science. My journey in technology began with a 5-year technical high school program specializing in IT, and since then, coding has been my true passion.
+I'm a programming enthusiast and currently a student of Computer Science. My journey in technology began with a 5-year technical high school program specializing in IT, and since then, coding has been my true passion.
 
 ### 🌟 Skills & Technologies
 <h3 align="left">Languages and Tools:</h3>
