@@ -30,6 +30,7 @@ I'm constantly learning new tools and frameworks, as this is just the beginning 
 When I'm not coding, you'll probably find me pursuing my other passions:
 - **Sports**: 
   - 🥊 Martial arts
+  - 🏋️‍♂️ Gym
   - 🏐 Volleyball: I continue to play recreationally, keeping the competitive spirit alive.
 
 ### 📫 Let's Connect
