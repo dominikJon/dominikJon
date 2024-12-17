@@ -22,7 +22,11 @@ I'm a programming enthusiast and currently a student of Computer Science. My jou
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  </a>
 </p>
+
 
 I'm constantly learning new tools and frameworks, as this is just the beginning of my journey in the world of programming.
 
