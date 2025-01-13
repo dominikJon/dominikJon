@@ -27,6 +27,8 @@ I'm a programming enthusiast and currently a student of Computer Science. My jou
   </a> 
 </p>
 
+### 📜 Certificates
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8f87d0c2-cd74-4f19-a2ee-464b3a07719c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 I'm constantly learning new tools and frameworks, as this is just the beginning of my journey in the world of programming.
 
