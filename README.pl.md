@@ -1,6 +1,11 @@
 <h1 align="center">Cześć 👋, jestem Dominik</h1>
 <h3 align="center">Pasjonuję się programowaniem i technologią.</h3>
 
+### 🌍 Other Languages
+[EN 🇬🇧](README.md)
+
+---
+
 ### 💻 O mnie
 Jestem entuzjastą programowania i obecnie studentem Informatyki. Moja przygoda z technologią rozpoczęła się od 5-letniego technikum o profilu informatycznym i od tamtej pory kodowanie stało się moją prawdziwą pasją.
 
