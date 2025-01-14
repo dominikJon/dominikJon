@@ -1,7 +1,7 @@
 <h1 align="center">Cześć 👋, jestem Dominik</h1>
 <h3 align="center">Pasjonuję się programowaniem i technologią.</h3>
 
-### 🌍 Other Languages
+### 🌍
 [EN 🇬🇧](README.md)
 
 ---
