@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
 <h3 align="center">I am passionate about programming and technology.</h3>
 
+### 🌍 Other Languages
+[🇵🇱 Polish Version](README.pl.md)
+
+---
+
 ### 💻 About Me
 I'm a programming enthusiast and currently a student of Computer Science. My journey in technology began with a 5-year technical high school program specializing in IT, and since then, coding has been my true passion.
 
@@ -41,4 +46,3 @@ Feel free to explore my repositories or reach out to me if you'd like to collabo
 
 - **Email**: <a href="mailto:dominikjonik6@gmail.com">dominikjonik6@gmail.com</a>  
 - **Discord**: <a href="https://discord.com">dom1nik</a>
-
