@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
 
-[🇵🇱 PL](./README.pl.md) </ br>
+[🇵🇱 PL](./README.pl.md)
+##
 I'm a Computer Science student who started with programming, but lately I’ve been diving deeper into the broader IT world: Linux, servers, networking, and cybersecurity. I don’t see it as just "skills" — more like experimenting, learning and having fun with technology.
 
 ---
