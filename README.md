@@ -1,48 +1,40 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
-<h3 align="center">I am passionate about programming and technology.</h3>
 
-### 🌍 Other Languages
-[🇵🇱 Polish Version](README.pl.md)
+I'm a Computer Science student who started with programming, but lately I’ve been diving deeper into the broader IT world: Linux, servers, networking, and cybersecurity. I don’t see it as just "skills" — more like experimenting, learning and having fun with technology.
 
 ---
 
-### 💻 About Me
-I'm a programming enthusiast and currently a student of Computer Science. My journey in technology began with a 5-year technical high school program specializing in IT, and since then, coding has been my true passion.
+## 🔍 What I’m into right now
+- Playing with **Linux** on a daily basis — admin stuff, troubleshooting, scripting.  
+- Exploring **networking** tools (like `nmap`) and learning how systems talk to each other.  
+- Building and securing small **home lab environments** (VMs, services, monitoring, firewalls).  
+- Automating repetitive tasks with simple scripts.  
+- Still keeping some love for **web & coding** (HTML, CSS, JavaScript, PHP, React basics, C++).  
 
-### 🌟 Skills & Technologies
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a> <br>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a> 
-</p>
+I’m not claiming to be an expert — I just enjoy poking around IT, breaking things in safe environments, and figuring out how to fix them again.  
 
-I'm constantly learning new tools and frameworks, as this is just the beginning of my journey in the world of programming.
+---
 
-### 🏐 Outside of Coding
-When I'm not coding, you'll probably find me pursuing my other passions:
-- **Sports**: 
-  - 🥊 Martial arts
-  - 🏋️‍♂️ Gym
-  - 🏐 Volleyball: I continue to play recreationally, keeping the competitive spirit alive.
+## 🛠 Tech & Tools I touch
+- **Programming / Web:** HTML, CSS, JS, PHP, React, C++  
+- **Sysadmin / Infra:** Linux (daily driver), servers, networking, backups, monitoring  
+- **Security playground:** nmap, basic pentesting tools, service hardening, ethical hacking in labs  
+- **Other fun:** shell scripting, containers, automation  
 
-### 📫 Let's Connect
-Feel free to explore my repositories or reach out to me if you'd like to collaborate on a project or just chat about technology and sports!
+---
 
-- **Email**: <a href="mailto:dominikjonik6@gmail.com">dominikjonik6@gmail.com</a>  
-- **Discord**: <a href="https://discord.com">dom1nik</a>
+## 🌍 Beyond IT
+When I’m not glued to a terminal, you’ll probably find me:  
+🥊 Training martial arts  
+🏋️ Hitting the gym  
+🏐 Playing volleyball recreationally  
+
+---
+
+## 📫 Let’s connect
+- Email: `domin...`  
+- Discord: `dom1nik`  
+
+---
+
+⚠️ *Everything security-related here is just for fun & learning in safe environments — no shady stuff.*
