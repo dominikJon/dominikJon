@@ -1,49 +1,40 @@
 <h1 align="center">Cześć 👋, jestem Dominik</h1>
-<h3 align="center">Pasjonuję się programowaniem i technologią.</h3>
 
-### 🌍
-[EN 🇬🇧](README.md)
+Studiuję informatykę. Zaczynałem od programowania, ale ostatnio coraz bardziej wciąga mnie szerszy świat IT: Linux, serwery, sieci i bezpieczeństwo. Nie traktuję tego wyłącznie jako „umiejętności” — to bardziej eksperymentowanie, nauka i po prostu zabawa technologią.
 
 ---
 
-### 💻 O mnie
-Jestem entuzjastą programowania i obecnie studentem Informatyki. Moja przygoda z technologią rozpoczęła się od 5-letniego technikum o profilu informatycznym i od tamtej pory kodowanie stało się moją prawdziwą pasją.
+## 🔍 Czym się teraz zajmuję
+- Codzienna zabawa z **Linuxem** — administracja, rozwiązywanie problemów, skrypty.  
+- Odkrywanie narzędzi **sieciowych** (jak `nmap`) i nauka, jak systemy komunikują się ze sobą.  
+- Budowanie i zabezpieczanie małych **home labów** (VM-ki, usługi, monitoring, firewalle).  
+- Automatyzacja powtarzalnych zadań prostymi skryptami.  
+- Nadal trochę przywiązania do **web & kodu** (HTML, CSS, JavaScript, PHP, React, C++).  
 
-### 🌟 Umiejętności i technologie
-<h3 align="left">Języki i narzędzia:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a> <br>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a> 
-</p>
+Nie uważam się za eksperta — po prostu lubię grzebać w IT, psuć rzeczy w bezpiecznym środowisku i uczyć się, jak je potem naprawić.  
 
-Nieustannie uczę się nowych narzędzi i frameworków, ponieważ to dopiero początek mojej podróży w świecie programowania.
+---
 
-### 🏐 Poza programowaniem
-Kiedy nie zajmuję się kodowaniem, prawdopodobnie realizuję swoje inne pasje:
-- **Sporty**: 
-  - 🥊 Sztuki walki
-  - 🏋️‍♂️ Siłownia
-  - 🏐 Siatkówka: Gram rekreacyjnie, zachowując ducha rywalizacji.
+## 🛠 Technologie i narzędzia
+- **Programowanie / Web:** HTML, CSS, JS, PHP, React, C++  
+- **Sysadmin / Infra:** Linux (na co dzień), Windows, serwery, sieci, backupy, monitoring  
+- **Security playground:** nmap, podstawowe narzędzia pentestowe, hardening usług, etyczne hackowanie w labach  
+- **Inne zabawy:** skrypty bash, kontenery, automatyzacja  
 
-### 📫 Skontaktuj się ze mną
-Zapraszam do zapoznania się z moimi repozytoriami lub do kontaktu, jeśli chciałbyś współpracować przy projekcie lub porozmawiać o technologii i sporcie!
+---
 
-- **Email**: <a href="mailto:dominikjonik6@gmail.com">dominikjonik6@gmail.com</a>  
-- **Discord**: <a href="https://discord.com">dom1nik</a>
+## 🌍 Poza IT
+Kiedy nie siedzę w terminalu, najczęściej:  
+🥊 Trenuję sztuki walki  
+🏋️‍♂️ Ćwiczę na siłowni  
+🏐 Gram rekreacyjnie w siatkówkę  
 
+---
+
+## 📫 Kontakt
+- Email: `dominik.com`  
+- Discord: `dom1nikjonik6@gmail.com`  
+
+---
+
+⚠️ *Wszystko związane z bezpieczeństwem robię wyłącznie dla nauki i zabawy w bezpiecznych środowiskach — zero nielegalnych działań.*
