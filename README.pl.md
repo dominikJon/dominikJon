@@ -25,7 +25,7 @@ Nie uważam się za eksperta — po prostu lubię grzebać w IT, psuć rzeczy w 
 
 ## 🌍 Poza IT
 Kiedy nie siedzę w terminalu, najczęściej:  
-🥊 Trenuję sztuki walki  
+🥊 Sztuki walki  
 🏋️‍♂️ Ćwiczę na siłowni  
 🏐 Gram rekreacyjnie w siatkówkę  
 
