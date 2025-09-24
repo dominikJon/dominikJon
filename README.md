@@ -32,7 +32,7 @@ When I’m not glued to a terminal, you’ll probably find me:
 ---
 
 ## 📫 Let’s connect
-- Email: `domin...`  
+- Email: `dominikjonik6@gmail.com`  
 - Discord: `dom1nik`  
 
 ---
