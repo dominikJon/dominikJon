@@ -16,7 +16,7 @@ Nie uważam się za eksperta — po prostu lubię grzebać w IT, psuć rzeczy w 
 ---
 
 ## 🛠 Technologie i narzędzia
-- **Programowanie / Web:** HTML, CSS, JS, PHP, React, C++  
+- **Programowanie / Web:** HTML, CSS, JS, i podstawy PHP, React, C++  
 - **Sysadmin / Infra:** Linux (na co dzień), Windows, serwery, sieci, backupy, monitoring  
 - **Security playground:** nmap, podstawowe narzędzia pentestowe, hardening usług, etyczne hackowanie w labach  
 - **Inne zabawy:** skrypty bash, kontenery, automatyzacja  
