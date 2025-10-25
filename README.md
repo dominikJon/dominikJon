@@ -18,7 +18,7 @@ I’m not claiming to be an expert — I just enjoy poking around IT, breaking t
 ---
 
 ## 🛠 Tech & Tools I touch
-- **Programming / Web:** HTML, CSS, JS, PHP, React, C++  
+- **Programming / Web:** HTML, CSS, JS, and basics PHP, React, C++  
 - **Sysadmin / Infra:** Linux (daily driver), Windows, servers, networking, backups, monitoring  
 - **Security playground:** nmap, basic pentesting tools, service hardening, ethical hacking in labs  
 - **Other fun:** shell scripting, containers, automation  
