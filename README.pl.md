@@ -32,8 +32,8 @@ Kiedy nie siedzę w terminalu, najczęściej:
 ---
 
 ## 📫 Kontakt
-- Email: `dominik.com`  
-- Discord: `dom1nikjonik6@gmail.com`  
+- Email: `dominikjonik6@gmail.com`  
+- Discord: `døm1nik`  
 
 ---
 
